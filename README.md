@@ -1,2 +1,3 @@
 # Simple-Car-Modelling-AR
-Ini adalah aplikasi AR simple berbasis marked target buatan saya, dengan menggunakan Unity dan Vuforia Engine
+This is a simple AR application based on marked targets made by me, using Unity and Vuforia Engine
+As the final project of the DTS FGA Metaverse Engineer 2023 training.
