@@ -3,8 +3,8 @@ This is a simple AR application based on marked targets made by me, using Unity 
 As the final project of the Kominfo DTS-FGA Metaverse Engineer Batch 1 2023. Because it is simple and fast to make. Moreover, if this AR
 developed more fully, it can be used as an AR application to view car models that will be sold without having to go to a vehicle showroom/shop.
 
-Pengembang:
-Dinar Wahyu Rahman 
+Application development team:
+Dinar Wahyu Rahman (application AR developer and documentation)
 
 This is a collection of links for you to reach my project.
 
