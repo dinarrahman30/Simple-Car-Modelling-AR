@@ -7,6 +7,7 @@ Application development team:
 
 1. Dinar Wahyu Rahman (application AR developer and documentation)
 
+
 This is a collection of links for you to reach my project.
 
 - To be able to download the AR application, please click the link below:
