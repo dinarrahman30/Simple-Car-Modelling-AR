@@ -4,6 +4,7 @@ As the final project of the Kominfo DTS-FGA Metaverse Engineer Batch 1 2023. Bec
 developed more fully, it can be used as an AR application to view car models that will be sold without having to go to a vehicle showroom/shop.
 
 Application development team:
+
 Dinar Wahyu Rahman (application AR developer and documentation)
 
 This is a collection of links for you to reach my project.
