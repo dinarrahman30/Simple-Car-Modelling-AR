@@ -5,7 +5,7 @@ developed more fully, it can be used as an AR application to view car models tha
 
 Application development team:
 
-Dinar Wahyu Rahman (application AR developer and documentation)
+1. Dinar Wahyu Rahman (application AR developer and documentation)
 
 This is a collection of links for you to reach my project.
 
