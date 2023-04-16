@@ -8,15 +8,15 @@ Dinar Wahyu Rahman
 
 This is a collection of links for you to reach my project.
 
-To be able to download the AR application, please click the link below:
+- To be able to download the AR application, please click the link below:
 https://drive.google.com/file/d/1uGcBfoRUlZTd9iEe4zc5UBhwQ2-vaRAF/view?usp=share_link
-Link Image Marker:
+- Link Image Marker:
 https://github.com/dinarrahman30/Simple-Car-Modelling-AR/blob/main/sketsa-mobil-9.jpg
-Link Mozilla Hubs:
+- Link Mozilla Hubs:
 https://hubs.mozilla.com/bFb7eXa/soulful-icy-world
-Asset in this project:
+- Asset in this project:
 https://drive.google.com/drive/folders/1g6hXSI0ug32Y8SBpT7j5dYHMQ-JVOOsA?usp=share_link
-You can see the full project here:
+- You can see the full project here:
 https://drive.google.com/drive/folders/17_Jyao_lM2xGpd_mLxMHP0JY81Cm7byZ?usp=share_link
-Demo APK from Youtube:
+- Demo APK from Youtube:
 https://youtu.be/OzdYhbRbT_M
