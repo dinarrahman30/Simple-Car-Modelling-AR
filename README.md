@@ -11,7 +11,9 @@ This is a collection of links for you to reach my project.
 
 - To be able to download the AR application, please click the link below:
 https://drive.google.com/file/d/1uGcBfoRUlZTd9iEe4zc5UBhwQ2-vaRAF/view?usp=share_link
-- Link Image Marker:
+- Link Image Target:
+https://github.com/dinarrahman30/Simple-Car-Modelling-AR/blob/main/NewAR.unitypackage
+- Link Image Marker to run AR:
 https://github.com/dinarrahman30/Simple-Car-Modelling-AR/blob/main/sketsa-mobil-9.jpg
 - Link Mozilla Hubs:
 https://hubs.mozilla.com/bFb7eXa/soulful-icy-world
