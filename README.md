@@ -1,5 +1,5 @@
 # Simple-Car-Modelling-AR
-This is a simple AR application based on marked targets made by me, using Unity and Vuforia Engine
+This is a simple AR application based on marked targets made by me, using Unity 3D and Vuforia Engine
 As the final project of the Kominfo DTS-FGA Metaverse Engineer Batch 1 2023. Because it is simple and fast to make. Moreover, if this AR
 developed more fully, it can be used as an AR application to view car models that will be sold without having to go to a vehicle showroom/shop.
 
